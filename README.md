@@ -1,6 +1,6 @@
 # MicroTradingPractice
 
-## Market micro structure & Micro Trading by 아마추어퀀트
+## Market Microstructure and Micro Trading by 아마추어퀀트
 
 - 자료 출처
     - [아마추어퀀트 블로그](http://blog.naver.com/chunjein/221023545797)
